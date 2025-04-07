@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **sqzr2319/sqzr2319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,12 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
----
-title: about
-layout: about
-date: 2025-04-07 15:05:19
----
 
 ## Hi there 👋 I'm YiFeng Chu (sqzr2319)
 
