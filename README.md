@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ✨ I'm interested in Mathematics and Computer Science, and now I'm learning AI (ML/DL/LLM) through Tsinghua University Student Research Training program.
 
-💻 In high school, I used to enjoy competitive programming and compete in Olympiad in Informatics (OI), welcome to my [Luogu account](https://www.luogu.com.cn/user/218400).
+💻 In high school, I used to enjoy competitive programming and compete in Olympiad in Informatics (OI), here is my [Luogu account](https://www.luogu.com.cn/user/218400).
 
 📝 I'm now a member of [@SSAST](https://github.com/ssast-tech), participating in the development of THUAI-8 (Unity C#, Frontend).
 
@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 
 🎮 I also play games like Honkai: Star Rail, Stellaris and Civilization.
 
-📺 I've enjoyed ACGN since 2018, welcome to my [Bangumi Account](https://bangumi.tv/user/780396). My GOAT animation is [CLANNAD 〜AFTER STORY〜](https://bangumi.tv/subject/876), and now I'm watching [メダリスト](https://bangumi.tv/subject/430699).
+📺 I've enjoyed ACGN since 2018, here is my [Bangumi Account](https://bangumi.tv/user/780396). My GOAT animation is [CLANNAD 〜AFTER STORY〜](https://bangumi.tv/subject/876), and now I'm watching [メダリスト](https://bangumi.tv/subject/430699).
 
 🏫 I'm an active member of [THU Jisedai ACGN Club](https://thujsd.club/), now trying to learn ヲタ芸.
