@@ -25,19 +25,6 @@ Here are some ideas to get you started:
 
 📑 I am also a tech blogger, here is my [personal website](https://sqzr2319.github.io). Hoping that my lecture notes and cheatsheet will help you.
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
-    <a href="https://github.com/sqzr2319/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sqzr2319&layout=compact" alt="Top Langs" style="height: 150px;">
-    </a>
-  </div>
-  <div>
-    <a href="https://github.com/sqzr2319/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=sqzr2319&show_icons=true" alt="sqzr2319's GitHub stats" style="height: 150px;">
-    </a>
-  </div>
-</div>
-
 ## My Interests
 
 🔭 I'm interested in astronomy and science fiction.
